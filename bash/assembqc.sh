@@ -12,7 +12,7 @@ eval "$(conda shell.bash hook)"
 conda activate checkm
 
 # --- set paths
-export CHECKM_DATA_PATH=/storage/home/smk459/work/programs/checkM
+export CHECKM_DATA_PATH=/your/path/here/checkM
 ASSEMB=/your/path/here/3.0-unicycler_entero/assemblies
 OUT=/your/path/here/3.1-uniqc/checkm
 

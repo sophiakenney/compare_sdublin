@@ -7,7 +7,7 @@ echo "Job started at $(date)"
 #activate conda env
 source ~/.bashrc
 eval "$(conda shell.bash hook)"
-conda activate abricate
+conda activate amrfinder
 
 #set paths
 PROT=/your/path/here/4.0-prokka/faa
