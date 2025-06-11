@@ -1,0 +1,137 @@
+vfdb_category	GENE	strain_assoc	protein_fxn	category	subcategory
+Aerobactin 	iucD	Escherichia coli CFT073]	(iucD) L-lysine 6-monooxygenase IucD 	Nutritional/Metabolic Factor	Iron Uptake
+Aerobactin 	iucC	Escherichia coli CFT073]	(iucC) aerobactin siderophore biosynthesis protein IucC 	Nutritional/Metabolic Factor	Iron Uptake
+Aerobactin 	iucB	Escherichia coli CFT073]	(iucB) aerobactin siderophore biosynthesis protein IucB 	Nutritional/Metabolic Factor	Iron Uptake
+Aerobactin 	iutA	Escherichia coli CFT073]	(iutA) ferric aerobactin receptor precusor IutA 	Nutritional/Metabolic Factor	Iron Uptake
+Aerobactin 	iucA	Escherichia coli CFT073]	(iucA) aerobactin siderophore biosynthesis protein IucD 	Nutritional/Metabolic Factor	Iron Uptake
+Agf 	csgE	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(csgE) curli production assembly/transport protein CsgE 	Adherence	Fimbral Adhesion
+Agf 	csgG	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(csgG) curli production assembly/transport protein CsgG 	Adherence	Fimbral Adhesion
+Agf 	csgA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(csgA) curlin major subunit CsgA 	Adherence	Fimbral Adhesion
+Agf 	csgF	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(csgF) curli production assembly/transport protein CsgF 	Adherence	Fimbral Adhesion
+Agf 	csgB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(csgB) minor curlin subunit precursor curli nucleator protein CsgB 	Adherence	Fimbral Adhesion
+Agf 	csgC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(csgC) curli assembly protein CsgC 	Adherence	Fimbral Adhesion
+CdtB 	cdtB	Salmonella enterica subsp. enterica serovar Typhi str. CT18]	(cdtB) cytolethal distending toxin B  	Exotoxin	Intracellularly Active Toxin
+curli fibers/thin aggregative fimbriae 	csgD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(csgD) DNA-binding transcriptional regulator CsgD 	Adherence	Fimbral Adhesion
+CytK 	cytK	Bacillus cereus ATCC 10987]	(cytK) cytotoxin K 	Exotoxin	Pore-forming Toxin
+Enterobactin 	entA	Escherichia coli CFT073]	(entA) 23-dihydro-23-dihydroxybenzoate dehydrogenase 	Nutritional/Metabolic Factor	Iron Uptake
+Enterobactin 	fepG	Escherichia coli CFT073]	(fepG) iron-enterobactin ABC transporter permease 	Nutritional/Metabolic Factor	Iron Uptake
+Enterobactin 	entB	Escherichia coli CFT073]	(entB) isochorismatase 	Nutritional/Metabolic Factor	Iron Uptake
+Enterobactin 	fepC	Escherichia coli CFT073]	(fepC) ferrienterobactin ABC transporter ATPase 	Nutritional/Metabolic Factor	Iron Uptake
+ESX-1 	esxA	Mycobacterium tuberculosis H37Rv]	(esxA) 6 kDa early secretory antigenic target EsxA (ESAT-6) 	Effector Delivery System	Type VII Secretion System
+GrvA 	grvA	Salmonella enterica (serovar typhimurium)]	(grvA) gifsy-2 related virulence gene 	Other	Gifsy-2 Related
+K88 pili/F4 fimbriae 	faeC	Escherichia coli]	(faeC) FaeC 	Adherence	Fimbral Adhesion
+K88 pili/F4 fimbriae 	faeD	Escherichia coli SE11]	(faeD) fimbrial usher protein FaeD 	Adherence	Fimbral Adhesion
+K88 pili/F4 fimbriae 	faeE	Escherichia coli SE11]	(faeE) fimbrial chaperone FaeE 	Adherence	Fimbral Adhesion
+Lpf 	lpfB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(lpfB) long polar fimbrial chaperone protein LpfB 	Adherence	Fimbral Adhesion
+Lpf 	lpfA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(lpfA) long polar fimbria protein LpfA 	Adherence	Fimbral Adhesion
+Lpf 	lpfC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(lpfC) long polar fimbrial usher protein LpfC 	Adherence	Fimbral Adhesion
+Lpf 	lpfD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(lpfD) long polar fimbrial protein LpfD 	Adherence	Fimbral Adhesion
+Lpf 	lpfE	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(lpfE) long polar fimbrial minor subunit LpfE adhesin 	Adherence	Fimbral Adhesion
+MgtBC 	mgtB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(mgtB) Mg2+ transport protein 	Nutritional/Metabolic Factor	Magnesium Uptake
+MgtBC 	mgtC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(mgtC) Mg2+ transport protein 	Nutritional/Metabolic Factor	Magnesium Uptake
+Mig-14 	mig.14	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(mig-14) antimicrobial peptide resistance protein Mig-14 	Competitve Advantage 	Macrophage-Inducible Gene
+MisL 	misL	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(misL) putative autotransporter 	Adherence	Non-fimbral Adhesion
+TTSS	ospE2	Shigella flexneri 2a str. 301]	(ospE2) type III secretion system effector OspE2 	Effector Delivery System	Type III Secretion System
+OmpA 	ompA	Escherichia coli O18:K1:H7 str. RS218]	(ompA) outer membrane protein A 	Immune Modulation	Apoptosis
+P fimbriae 	papB	Escherichia coli CFT073]	(papB) regulatory protein PapB 	Adherence	Fimbral Adhesion
+Pef 	pefC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(pefC) plasmid-encoded fimbriae usher protein PefC 	Adherence	Fimbral Adhesion
+Pef 	pefA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(pefA) plasmid-encoded fimbriae major subunit PefA 	Adherence	Fimbral Adhesion
+Pef 	pefB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(pefB) plasmid-encoded fimbriae regulatory protein PefB 	Adherence	Fimbral Adhesion
+Pef 	pefD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(pefD) plasmid-encoded fimbriae chaperone protein PefD 	Adherence	Fimbral Adhesion
+Pse5Ac7Ac Pse5Ac7Am Pse8OAc Pse5Am7AcGlnAc 	flgP	Campylobacter jejuni subsp. jejuni NCTC 11168]	(flgP) required for flagellar motility 	Motility	Flagella-mediated Motility
+RatB 	ratB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ratB) putative outer membrane protein 	Adherence	Non-fimbral Adhesion
+Rck 	rck	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(rck) resistance to complement killing 	Immune Modulation	Complement Evasion
+ShdA 	shdA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(shdA) AIDA autotransporter-like protein 	Adherence	Non-fimbral Adhesion
+SinH 	sinH	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sinH) intimin-like protein 	Adherence	Non-fimbral Adhesion
+SodCI 	sodCI	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sodCI) Gifsy-2 prophage: superoxide dismutase precursor (Cu-Zn) 	Stress Survival	Gifsy-2 Related
+SPI-1 encoded T3SS 	orgC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(orgC) type III secretion system effector OrgC 	Effector Delivery System	Type III Secretion System
+SPI-1 encoded T3SS 	steB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(steB) type III secretion system effector SteB 	Effector Delivery System	Type III Secretion System
+SPI-1 encoded T3SS 	steA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(steA) type III secretion system effector SteA 	Effector Delivery System	Type III Secretion System
+SPI-1 encoded T3SS 	sspH1	Salmonella enterica subsp. enterica serovar Typhimurium str. 14028s]	(sspH1) type III secretion system effector SspH1 E3 ubiquitin ligase 	Effector Delivery System	Type III Secretion System
+SPI-1 encoded T3SS 	orgA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(orgA) type III secretion system accessory cytosolic protein OrgA 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	pipB2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(pipB2) type III secretion system effector PipB3 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sifB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sifB) type III secretion system effector SifB 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sscA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sscA) chaperone for sseC 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sseK1	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseK1) type III secretion system effector SseK1 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	pipB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(pipB) type III secretion system effector PipB 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sseK2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseK2) type III secretion system effector SseK2 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sseI.srfH	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseI/srfH) type III secretion system effector SseI/SrfH cysteine protease 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	steC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(steC) type III secretion system effector SteC 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sseL	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseL) type III secretion system effector SseL deubiquitinase 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sopD2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sopD2) type III secretion system effector SopD2 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	gogB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(gogB) type III secretion system effector GogB anti-inflammatory effector 	Effector Delivery System	Type III Secretion System
+SPI-2 encoded T3SS 	sscB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sscB) chaperone for sseF 	Effector Delivery System	Type III Secretion System
+Spv 	spvC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spvC) type III secretion system effector SpvC phosphothreonine lyase 	Exotoxin	Intracellularly Active Toxin
+Spv 	spvB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spvB) type III secretion system effector SpvB ADP-ribosylation activity 	Exotoxin	Intracellularly Active Toxin
+Spv 	spvR	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spvR) Salmonella plasmid virulence: regulation of spv operon lysR family 	Exotoxin	Intracellularly Active Toxin
+Stx 	stx1B	Escherichia coli O157:H7 str. EDL933]	(stx1B) shiga-like toxin 1 subunit B encoded within prophage CP-933V 	Exotoxin	Intracellularly Active Toxin
+TTSS	ospE1	Shigella flexneri 2a str. 301]	(ospE1) type III secretion system effector OspE1 	Effector Delivery System	Type III Secretion System
+TcpC 	tcpC	Escherichia coli CFT073]	(tcpC) Tir domain containing protein TcpC 	Immune Modulation	TLR Subversion
+TTSS	sopD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sopD) type III secretion system effector SopD 	Effector Delivery System	Type III Secretion System
+TTSS	invH	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invH) type III secretion system pilotin invG 	Effector Delivery System	Type III Secretion System
+TTSS	invF	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invF) type III secretion system regulatory protein InvF 	Effector Delivery System	Type III Secretion System
+TTSS	invG	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invG) type III secretion system secretin invG 	Effector Delivery System	Type III Secretion System
+TTSS	invE	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invE) type III secretion system gatekeeper invE 	Effector Delivery System	Type III Secretion System
+TTSS	invA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invA) type III secretion system major export apparatus protein InvA 	Effector Delivery System	Type III Secretion System
+TTSS	invB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invB) type III secretion system protein InvB 	Effector Delivery System	Type III Secretion System
+TTSS	invC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invC) type III secretion system ATPase InvC 	Effector Delivery System	Type III Secretion System
+TTSS	invI	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invI) type III secretion system stalk protein InvI 	Effector Delivery System	Type III Secretion System
+TTSS	invJ	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(invJ) type III secretion system needle length regulator InvJ 	Effector Delivery System	Type III Secretion System
+TTSS	spaO	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spaO) type III secretion system C ring protein SpaO 	Effector Delivery System	Type III Secretion System
+TTSS	spaP	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spaP) type III secretion system minor export apparatus protein SpaP 	Effector Delivery System	Type III Secretion System
+TTSS	spaQ	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spaQ) type III secretion system minor export apparatus protein SpaQ 	Effector Delivery System	Type III Secretion System
+TTSS	spaR	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spaR) type III secretion system minor export apparatus protein SpaR 	Effector Delivery System	Type III Secretion System
+TTSS	spaS	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spaS) type III secretion system export apparatus switch protein SpaS 	Effector Delivery System	Type III Secretion System
+TTSS	sicA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sicA) chaparone for SipC and SipB 	Effector Delivery System	Type III Secretion System
+TTSS	sipB.sspB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sipB/sspB) type III secretion system hydrophilic translocator pore protein SipB 	Effector Delivery System	Type III Secretion System
+TTSS	sipC.sspC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sipC/sspC) type III secretion system hydrophilic translocator pore protein SipC 	Effector Delivery System	Type III Secretion System
+TTSS	sipD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sipD) type III secretion system hydrophilic translocator needle tip protein SipD 	Effector Delivery System	Type III Secretion System
+TTSS	sipA.sspA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sipA/sspA) type III secretion system effector SipA actin polymerizing activity 	Effector Delivery System	Type III Secretion System
+TTSS	sicP	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sicP) chaparone for SptP 	Effector Delivery System	Type III Secretion System
+TTSS	sptP	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sptP) type III secretion system effector SptP tyrosine phosphatase and GTPase-activating protein 	Effector Delivery System	Type III Secretion System
+TTSS	prgH	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(prgH) type III secretion system outer MS ring protein PrgH 	Effector Delivery System	Type III Secretion System
+TTSS	prgI	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(prgI) type III secretion system needle filament protein PrgI 	Effector Delivery System	Type III Secretion System
+TTSS	prgJ	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(prgJ) type III secretion system inner rod protein PrgJ 	Effector Delivery System	Type III Secretion System
+TTSS	prgK	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(prgK) type III secretion system inner MS ring protein PrgK 	Effector Delivery System	Type III Secretion System
+TTSS	sopA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sopA) type III secretion system effector SopA E3 ubiquitin ligase 	Effector Delivery System	Type III Secretion System
+TTSS	orgB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(orgB) type III secretion system stator OrgB 	Effector Delivery System	Type III Secretion System
+TTSS	avrA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(avrA) type III secretion system effector AvrA acetyltransferease 	Effector Delivery System	Type III Secretion System
+TTSS	sopB.sigD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sopB/sigD) type III secretion system effector SopB phosphoinositide phosphatase 	Effector Delivery System	Type III Secretion System
+TTSS	slrP	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(slrP) type III secretion system effector SlrP E3 ubiquitin ligase 	Effector Delivery System	Type III Secretion System
+TTSS	sopE2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sopE2) type III secretion system effector SopE2 guanine nucleotide exchange factor 	Effector Delivery System	Type III Secretion System
+TTSS	ssaQ	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaQ) type III secretion system C ring protein SsaQ 	Effector Delivery System	Type III Secretion System
+TTSS	ssaC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaC) type III secretion system secretin SsaC 	Effector Delivery System	Type III Secretion System
+TTSS	ssaR	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaR) type III secretion system minor export apparatus protein SsaR 	Effector Delivery System	Type III Secretion System
+TTSS	sifA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sifA) type III secretion system effector SifA N-terminal SKIP-binding domain C-terminal guanine nucleotide exchange factor activity 	Effector Delivery System	Type III Secretion System
+TTSS	sseF	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseF) type III secretion system effector SseF 	Effector Delivery System	Type III Secretion System
+TTSS	ssaS	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaS) type III secretion system minor export apparatus protein SsaS 	Effector Delivery System	Type III Secretion System
+TTSS	sseG	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseG) type III secretion system effector SseG 	Effector Delivery System	Type III Secretion System
+TTSS	ssaV	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaV) type III secretion system major export apparatus protein ssaV 	Effector Delivery System	Type III Secretion System
+TTSS	ssaO	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaO) type III secretion system stalk protein SsaO 	Effector Delivery System	Type III Secretion System
+TTSS	sseE	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseE) type III secretion system effector SseE 	Effector Delivery System	Type III Secretion System
+TTSS	ssaN	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaN) type III secretion system ATPase SsaN 	Effector Delivery System	Type III Secretion System
+TTSS	ssaJ	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaJ) type III secretion system inner MS ring protein SsaJ 	Effector Delivery System	Type III Secretion System
+TTSS	ssaI	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaI) type III secretion system inner rod protein SsaI 	Effector Delivery System	Type III Secretion System
+TTSS	ssaT	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaT) type III secretion system minor export apparatus protein SsaT 	Effector Delivery System	Type III Secretion System
+TTSS	spiC.ssaB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(spiC/ssaB) type III secretion system protein SsaB 	Effector Delivery System	Type III Secretion System
+TTSS	ssaG	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaG) type III secretion system needle filament protein SsaG 	Effector Delivery System	Type III Secretion System
+TTSS	sseC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseC) type III secretion system hydrophilic translocator pore protein SseC 	Effector Delivery System	Type III Secretion System
+TTSS	ssaP	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaP) type III secretion system needle length regulator SsaP 	Effector Delivery System	Type III Secretion System
+TTSS	sseB	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseB) type III secretion system effector SseB 	Effector Delivery System	Type III Secretion System
+TTSS	sseD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseD) type III secretion system hydrophilic translocator pore protein SseD 	Effector Delivery System	Type III Secretion System
+TTSS	ssaE	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaE) chaperone for sseB 	Effector Delivery System	Type III Secretion System
+TTSS	sseJ	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseJ) type III secretion system effector SseJ glycerophospholipid:cholesterol acyltransferase 	Effector Delivery System	Type III Secretion System
+TTSS	ssaU	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaU) type III secretion system export apparatus switch protein SsaU 	Effector Delivery System	Type III Secretion System
+TTSS	sseA	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sseA) chaperone for sseB and sseD 	Effector Delivery System	Type III Secretion System
+TTSS	ssaL	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaL) type III secretion system gatekeeper SsaL 	Effector Delivery System	Type III Secretion System
+TTSS	ssaD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaD) type III secretion system outer MS ring protein SsaD 	Effector Delivery System	Type III Secretion System
+TTSS	sspH2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(sspH2) type III secretion system effector SspH2 E3 ubiquitin ligase 	Effector Delivery System	Type III Secretion System
+TTSS	ssaH	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaH) type III secretion system protein SsaH 	Effector Delivery System	Type III Secretion System
+TTSS	ssaK	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaK) type III secretion system stator SsaK 	Effector Delivery System	Type III Secretion System
+TTSS	ssaM	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(ssaM) type III secretion system protein SsaM 	Effector Delivery System	Type III Secretion System
+TTSS	pscH	Pseudomonas aeruginosa PAO1]	(pscH) type III secretion system protein PscH 	Effector Delivery System	Type III Secretion System
+Type 1 fimbriae 	fimF	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(fimF) type I fimbriae adaptor protein FimF 	Adherence	Fimbral Adhesion
+Type 1 fimbriae 	fimH	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(fimH) type I fimbriae minor fimbrial subunit FimH adhesin 	Adherence	Fimbral Adhesion
+Type 1 fimbriae 	fimD	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(fimD) usher protein FimD 	Adherence	Fimbral Adhesion
+Type 1 fimbriae 	fimC	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(fimC) chaperone protein FimC 	Adherence	Fimbral Adhesion
+Type 1 fimbriae 	fimI	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	(fimI) fimbrial protein internal segment 	Adherence	Fimbral Adhesion
