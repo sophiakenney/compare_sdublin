@@ -64,7 +64,7 @@ Recommended order:
 5. amrfinder.R - create Tables 2 and 3; plot Figure 2 (including associated statistical tests)
 6. pangenome.R - create Table 5; plot Figure 3A-C (including associated statistical tests)
 7. anno.R - plot Figure 3D
-8. snpdiff.R - plot Figure 4B-D (Figure 4A generated with [iTOL](https://itol.embl.de/))
+8. snp.R - plot Figure 4B-D (Figure 4A generated with [iTOL](https://itol.embl.de/))
    
 
 
