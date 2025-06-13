@@ -20,7 +20,6 @@
       * `pangenome` : 
       * `phylo` : 
       * `readqc` : read qc tables
-          * `combinedkreports.xlsx` is too large for Github and can be found at XXX
       * `script` : all R scripts
 
 ### Analysis Pipeline 
@@ -59,12 +58,14 @@ Recommended order:
 
 1. meta.R - plot Figure 1
 2. readqc.R - aggregate read qc details in supplementary tables
-3. assembqc.R - aggregate assembly qc details in supplementary tables
-4. abricate.R - create Tables 1 and 4 (including associated statistical tests)
-5. amrfinder.R - create Tables 2 and 3; plot Figure 2 (including associated statistical tests)
-6. pangenome.R - create Table 5; plot Figure 3A-C (including associated statistical tests)
-7. anno.R - plot Figure 3D
-8. snp.R - plot Figure 4B-D (Figure 4A generated with [iTOL](https://itol.embl.de/))
+     * `combinedkreports.xlsx` can be downloaded [here](https://zenodo.org/records/15652582)
+4. assembqc.R - aggregate assembly qc details in supplementary tables
+5. abricate.R - create Tables 1 and 4 (including associated statistical tests)
+6. amrfinder.R - create Tables 2 and 3; plot Figure 2 (including associated statistical tests)
+7. pangenome.R - create Table 5; plot Figure 3A-C (including associated statistical tests)
+     * full dataset `gene_presence_absence` tables can be downloaded [here](https://zenodo.org/records/15652582)
+9. anno.R - plot Figure 3D
+10. snp.R - plot Figure 4B-D (Figure 4A generated with [iTOL](https://itol.embl.de/))
    
 
 
