@@ -15,10 +15,10 @@
       * `abricate` : abricate results 
       * `amrfinder` : amrfinder results 
       * `assembqc` : assembly qc tables 
-      * `functionalanno` : 
+      * `functionalanno` : annotation files, relevant gene lists, and reference files for gene annotation
       * `meta` : metadata for final dataset
-      * `pangenome` : 
-      * `phylo` : 
+      * `pangenome` :  raw data files and subset matrices from permutational analysis
+      * `phylo` : SNP distance matrix, and tree file
       * `readqc` : read qc tables
       * `script` : all R scripts
 
@@ -66,7 +66,7 @@ Recommended order:
      * full dataset `gene_presence_absence` tables can be downloaded [here](https://zenodo.org/records/15652582)
 9. anno.R - plot Figure 3D
 10. snp.R - plot Figure 4B-D (Figure 4A generated with [iTOL](https://itol.embl.de/))
-   
+     * As the way the chord diagrams are plotted imply transmission directionality that cannot be reliably inferred, plots were edited in [Flourish](https://flourish.studio/) to resolve this and generate the figures seen in the manuscript.    
 
 
 
