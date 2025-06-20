@@ -1,4 +1,4 @@
-# Genomic evolution of Salmonella Dublin in cattle and humans in the United States
+# Genomic evolution of *Salmonella* Dublin in cattle and humans in the United States
 
 ## Publication 
 
