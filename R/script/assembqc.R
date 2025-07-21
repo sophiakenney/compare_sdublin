@@ -13,7 +13,7 @@ checkm2 <- read.delim("assembqc/omics_checkm2.tsv", sep = "\t")
 checkm3 <- read.delim("assembqc/omics_checkm3.tsv", sep = "\t")
 ss <- read.delim("assembqc/seqseroentero_summary.tsv", sep = "\t")
 sr <- read.delim("assembqc/sistrentero_output.txt", sep = "\t")
-st <- read.delim("assembqc/mlst.tsv", sep = "\t", header = FALSE) # something here is messed up so circle back 
+st <- read.delim("assembqc/mlst.tsv", sep = "\t", header = FALSE)
 
 
 # ---- Format to combine ----
