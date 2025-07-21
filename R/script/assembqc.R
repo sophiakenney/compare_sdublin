@@ -72,7 +72,7 @@ all <- checkmall %>%
   full_join(st2, by = "ID")
 
 #save this 
-#write.table(all, "assembly/qc/allcombinedentero.txt", sep = "\t")
+#write.table(all, "assembqc/allcombinedentero.txt", sep = "\t")
 
 # ----- Filter : Sero -----
 
