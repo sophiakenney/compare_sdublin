@@ -6,7 +6,7 @@
 
 ### Directory contents
 
-*   `bash` contains all code used to perform the analyis and generate output tables used in RStudio
+*   `bash` contains all code used to perform the analysis and generate output tables used in RStudio
   
       * subdir `condaenv_yaml` contains yaml files for all conda environments needed for the analysis
 
